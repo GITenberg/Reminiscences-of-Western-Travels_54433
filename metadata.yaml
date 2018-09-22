@@ -1,0 +1,26 @@
+_repo: Reminiscences-of-Western-Travels_54433
+_version: 0.0.1
+alternative_title: 西海紀遊草
+creator:
+  author:
+    agent_name: Lin, Shao Xiang
+    alias: 林綤㿝
+    birthdate: 1824
+    gutenberg_agent_id: '47868'
+    url: http://www.gutenberg.org/2009/agents/47868
+description: ''
+gutenberg_issued: '2017-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54433'
+language:
+- en
+- zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- GITenberg
+title: Reminiscences of Western Travels
+url: http://www.gutenberg.org/ebooks/54433
